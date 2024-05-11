@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  1 13:49:30 2022
 
-@author: Salih
+@author: Omer Gamliel
 """
 from sklearn import datasets 
 import numpy as np
